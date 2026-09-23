@@ -102,7 +102,7 @@ footer{
         margin-bottom: 0;
         vertical-align: top;
     }
-    .card-one, .card-two, .card-three{
-       margin-right:auto;
+    .card-three{
+       margin-right: 0;
     }
 }
